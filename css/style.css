@@ -407,11 +407,13 @@ header .follow a:hover{
     }
 
     
-    .home .content .hi{
-        font-size: 2rem;
+    .home .content h3{
+        font-size: 3.5rem;
        
     }
-    
+    #oo{
+        margin-top: 50px;
+    }
 }
 
 
