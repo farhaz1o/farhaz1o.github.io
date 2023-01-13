@@ -407,7 +407,10 @@ header .follow a:hover{
     }
 
     
-    
+    .home .content .hi{
+        font-size: 2rem;
+       
+    }
     
 }
 
