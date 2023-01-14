@@ -352,9 +352,14 @@ header .follow a:hover{
     margin-top: -100px;
 }
 
+#next{
+    width:90%;
+}
 
 
-
+.low{
+    text-transform: none;
+}
 
 
 
@@ -412,7 +417,7 @@ header .follow a:hover{
        
     }
     #oo{
-        margin-top: -250px;
+        margin-top: -210px;
     }
 }
 
