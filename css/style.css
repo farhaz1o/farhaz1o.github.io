@@ -554,3 +554,7 @@ header .follow a:hover{
     width: fit-content;
     margin: auto;
 }
+
+#mail{
+    text-transform: none;
+}
