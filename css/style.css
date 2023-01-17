@@ -352,6 +352,9 @@ header .follow a:hover{
 #skills{
     margin-top: -100px;
 }
+#service{
+    margin-top: -100px;
+}
 
 #next{
     width:90%;
@@ -480,9 +483,7 @@ header .follow a:hover{
     .s img{
         width: 100%;
     }
-    #hii{
-        margin-left: 0%;
-    }
+    
     
     
 }
@@ -538,7 +539,7 @@ header .follow a:hover{
 
 
 .footer{
-    margin-top: -120px;
+    margin-top: -50px;
 }
 
 
